@@ -47,7 +47,7 @@ a través de proyectos en entornos laborales y personales.
 
 # 📊 Estadisticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=lukasmezal&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=lukasmezal&theme=algolia&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lukasmezal&theme=algolia&hide_border=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lukasmezal&icon=0&color=0)](https://visitcount.itsvg.in)
