@@ -53,3 +53,7 @@ a través de proyectos en entornos laborales y personales.
 [![](https://visitcount.itsvg.in/api?id=lukasmezal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <p>Gracias por visitar mi perfil. ¡No dudes en explorar mis repositorios y conectarte conmigo! <span><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="40" height="40" /></span></p>
+</div>
+
