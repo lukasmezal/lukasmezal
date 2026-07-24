@@ -14,7 +14,7 @@
 <td>
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="45" height="45" /> Sobre Mi: </h1>
 <p>
-Soy un estudiante de Ingeniería en Informática con aspiraciones de crecimiento continuo en el área profesional, 
+Soy Ingeniero en Informática con aspiraciones de crecimiento continuo en el área profesional, 
 busco adquirir experiencia y conocimiento 
 en las tecnologías más demandadas actualmente, 
 a través de proyectos en entornos laborales y personales.
@@ -107,9 +107,21 @@ a través de proyectos en entornos laborales y personales.
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-# 📊 Estadisticas de GitHub:
-![](https://github-readme-stats.vercel.app/api?username=lukasmezal&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lukasmezal&theme=algolia&hide_border=false)<br/>
+## 📊 Estadísticas de GitHub:
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lukasmeza&theme=tokyonight"
+    alt="Estadísticas de GitHub"
+  />
+
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lukasmeza&theme=tokyonight"
+    alt="Lenguajes por repositorio"
+  />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lukasmezal&icon=0&color=0)](https://visitcount.itsvg.in)
